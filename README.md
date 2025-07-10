@@ -4,9 +4,9 @@ This project uses trained AI model built with Teachable Machine to classify an i
 
 ---
 
-## ✅ Getting Started
+##  Getting Started
 
-### 1.
+### 1.  Open Google Colab
 - Open [Google Colab](https://colab.research.google.com)
 - Upload the code
   
